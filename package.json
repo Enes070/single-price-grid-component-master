@@ -1,0 +1,14 @@
+{
+  "name": "single",
+  "version": "1.0.0",
+  "description": "Landing page for single",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "Enes",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

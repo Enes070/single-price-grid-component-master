@@ -1,0 +1,103 @@
+.community_main_card{
+    width: 700px;
+    height: 300px;
+    background-color: var(--white);
+    margin-left: 550px;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+.community_detail{
+    width: 700px;
+    height: 200px;
+    background-color:var(--white);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: left;
+    font-family: 'Outfit', sans-serif;
+        .paragraph-1{
+            font-size: 300px;
+        }
+    
+        h2{
+            color: var(--cyan);
+            margin-left: 40px;
+            padding-top: 30px;
+        }
+
+        .paragraph-1{
+            color: var(--bright_yellow);
+            margin-left: 40px;
+            font-size: 15px;
+            font-weight: 900;
+        }
+
+        .paragraph-2{
+            color: var(--grayish_blue);
+            margin-left: 40px;
+            font-size: 18px;
+            font-weight: 900;
+        }
+}
+
+.price_for_community{
+    width: 350px;
+    height: 240px;
+    background-color: var(--cyan);
+    border-bottom-left-radius: 10px;
+
+    h3{
+        color:var(--white);
+        margin-left: 40px;
+        padding-top: 30px;
+        text-align: left;
+    }
+    .metin-1{
+        color: var(--white);
+        font-size: 30px;
+        margin-left: 40px;
+        font-weight: 900;
+    }
+    .metin-2{
+        color: var(--light_gray);
+        line-height: 40px;
+    }
+    .metin-3{
+        color: var(--white);
+        margin-left: 40px;
+    }
+
+    .Sign_btn{
+        margin-left: 40px;
+        margin-top: 30px;
+        background-color: var(--bright_yellow);
+        width: 230px;
+        height: 50px;
+        text-align: center;
+        border: 0 solid;
+        border-radius: 5px;
+        box-shadow: 0 1px 10px var(--black);
+    }
+}
+
+.community_question{
+    width: 350px;
+    height: 240px;
+    background-color: var(--cyan);
+    opacity: .7;
+    margin-top: -240px;
+    float: right;
+    border-bottom-right-radius: 10px;
+
+    .baslik-1{
+        color: var(--white);
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    .paragraph-4{
+        color: var(--white);
+        margin-left: 40px;
+        line-height: 22px;
+    }
+}

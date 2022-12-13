@@ -1,0 +1,17 @@
+:root{
+    //Primary
+    --cyan:#29b1af;
+    --bright_yellow:#C0df35;
+
+    //Neutral
+    --light_gray:#E5eff5;
+    --grayish_blue:#98a6bd;
+
+    --white:#ffffff;
+    --black:#000000;
+}
+
+body{
+    background-color: var(--light_gray);
+    font-family: 'Outfit', sans-serif;
+}
